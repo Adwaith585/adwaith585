@@ -1,5 +1,5 @@
 # 💫 About Me:
-IM a Btech CS student <br>im working on jarvis<br>im proficient in c, c#,python,java,html,css,javascript etc..<br>
+I'm a Btech CS student
 
 
 ## 🌐 Socials:
