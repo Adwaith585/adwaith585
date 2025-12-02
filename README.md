@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Btech CS student
+I'm a B-tech CS student
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adwaith.sa._)<br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adwaithsa24@gmail.com) 
