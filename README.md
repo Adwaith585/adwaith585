@@ -27,9 +27,17 @@ exploring computational algorithms and modern application architectures.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[Adwaith585](https://github.com/Adwaith585)** &nbsp;·&nbsp; <samp>python, web</samp><br>
-Check out my highlighted projects and open-source contributions directly on my GitHub.<br>
-Actively committing features, experiments, and tooling environments.
+**[cybershield-auth](https://github.com/Adwaith585/cybershield-auth)** &nbsp;·&nbsp; <samp>python, tensorflow, sqlite</samp><br>
+Anomaly detection framework for behavioral authentication streams.<br>
+Blocks unauthorized actors using dynamic ML models and robust securing.
+
+**[pixel-survivor](https://github.com/Adwaith585/pixel-survivor)** &nbsp;·&nbsp; <samp>c#, unity, opengl</samp><br>
+2D top-down survival game mechanic playground.<br>
+Custom implementations of pathfinding algorithms and procedural generation.
+
+**[api-forge](https://github.com/Adwaith585/api-forge)** &nbsp;·&nbsp; <samp>javascript, mongodb, html5</samp><br>
+High-performance REST API architecture boilerplate prioritizing<br>
+security, scalability, and automated testing deployment pipelines.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
