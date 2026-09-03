@@ -32,6 +32,10 @@ intelligence, regularly experimenting with machine learning and computer vision.
 The first game I uploaded on this platform.<br>
 Early explorations into game mechanics and interactive environments.
 
+**[dashcart-mvp](https://github.com/Adwaith585/dashcart-mvp)** &nbsp;·&nbsp; <samp>typescript</samp><br>
+Full-stack DashCart eCommerce web development MVP application.<br>
+Features complete authentication flows, product listings, and cart state management.
+
 **[VentureVision-Pro](https://github.com/Adwaith585/VentureVision-Pro)** &nbsp;·&nbsp; <samp>python</samp><br>
 Autonomous AI agent designed to automate Venture Capital due diligence.<br>
 Uses a recursive ReAct loop to autonomously research and compile memos.
