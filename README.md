@@ -16,9 +16,10 @@
 > B-tech CS student passionate about building real things.<br>
 > Crafting code to solve complex problems.
 
-I am actively exploring web development, cybersecurity, and backend engineering. Right now<br>
-I am focused on building machine learning tools and robust game development mechanics. Also<br>
-exploring computational algorithms and modern application architectures.
+I am actively exploring full-stack web development and applied cybersecurity.<br>
+Right now I am deeply focused on game development, building interactive 2D and 3D<br>
+mechanics using Unity, C#, and OpenGL. I am also fascinated by artificial<br>
+intelligence, regularly experimenting with machine learning and computer vision.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
