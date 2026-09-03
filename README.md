@@ -16,9 +16,9 @@
 > B-tech CS student passionate about building real things.<br>
 > Crafting code to solve complex problems.
 
-I am actively exploring modern tooling and backend engineering. Right now I am focused on<br>
-building projects with machine learning and robust application architectures. Also<br>
-exploring game mechanics and optimizing computational algorithms.
+I am actively exploring web development, cybersecurity, and backend engineering. Right now<br>
+I am focused on building machine learning tools and robust game development mechanics. Also<br>
+exploring computational algorithms and modern application architectures.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
