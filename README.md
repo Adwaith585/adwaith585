@@ -27,17 +27,17 @@ exploring computational algorithms and modern application architectures.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[cybershield-auth](https://github.com/Adwaith585/cybershield-auth)** &nbsp;·&nbsp; <samp>python, tensorflow, sqlite</samp><br>
-Anomaly detection framework for behavioral authentication streams.<br>
-Blocks unauthorized actors using dynamic ML models and robust securing.
+**[LIFE-OF-CUBE](https://github.com/Adwaith585/LIFE-OF-CUBE)** &nbsp;·&nbsp; <samp>asp.net</samp><br>
+The first game I uploaded on this platform.<br>
+Early explorations into game mechanics and interactive environments.
 
-**[pixel-survivor](https://github.com/Adwaith585/pixel-survivor)** &nbsp;·&nbsp; <samp>c#, unity, opengl</samp><br>
-2D top-down survival game mechanic playground.<br>
-Custom implementations of pathfinding algorithms and procedural generation.
+**[VentureVision-Pro](https://github.com/Adwaith585/VentureVision-Pro)** &nbsp;·&nbsp; <samp>python</samp><br>
+Autonomous AI agent designed to automate Venture Capital due diligence.<br>
+Uses a recursive ReAct loop to autonomously research and compile memos.
 
-**[api-forge](https://github.com/Adwaith585/api-forge)** &nbsp;·&nbsp; <samp>javascript, mongodb, html5</samp><br>
-High-performance REST API architecture boilerplate prioritizing<br>
-security, scalability, and automated testing deployment pipelines.
+**[Push-UP-Counter](https://github.com/Adwaith585/Push-UP-Counter)** &nbsp;·&nbsp; <samp>python</samp><br>
+Computer vision program to count the number of push-ups so you don't have to.<br>
+Built to automate tracking using real-time pose estimation.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
